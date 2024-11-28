@@ -25,8 +25,6 @@ todas as contas.
 Simular o comportamento de uma fila em um cenário de sistema bancário, onde as contas são tratadas 
 no formato FIFO (First In, First Out), ou seja,
 o primeiro elemento inserido é o primeiro a ser removido.
-Criar uma interface simples em terminal para facilitar a interação do usuário com o sistema.
-Implementar uma solução modular e estruturada, favorecendo a manutenção e a expansão do código.
 
 Descrição Técnica
 
@@ -63,7 +61,7 @@ Motivação e Justificativa
 
 Este projeto foi desenvolvido com a finalidade de:
 
-Aplicar conceitos aprendidos em disciplinas de programação estruturada e estrutura de dados.
+Aplicar conceitos aprendidos em disciplinas de Estruturas de Dados: Estratégia e implementação.
 Explorar o uso de filas dinâmicas para resolver problemas reais, como o gerenciamento sequencial de dados.
 Fornecer uma base para estudos futuros, como a implementação de sistemas mais complexos utilizando outras 
 estruturas de dados (pilhas, árvores, etc.).
