@@ -10,8 +10,7 @@ Apresentação do Projeto: Sistema de Gerenciamento de Contas Bancárias utiliza
 
 Objetivo Geral
 
-O projeto consiste no desenvolvimento de um sistema de gerenciamento de contas bancárias baseado
-no conceito de fila dinâmica. 
+O projeto consiste no desenvolvimento de um sistema de gerenciamento de contas bancárias baseado em um conceito de fila dinâmica. 
 
 A aplicação foi implementada em C, utilizando estruturas de dados como filas encadeadas para 
 organizar e manipular as contas bancárias de maneira eficiente e sequencial. 
